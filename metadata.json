@@ -1,0 +1,6 @@
+{
+  "name": "ABCD BOY",
+  "description": "ABCD BOY - Ultimate Educational Learning & Fun Game App for Kids with A to Z, 1 to 100, Gubbara Pop, Drawing, and Voice!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
